@@ -116,13 +116,13 @@ const Menu = () => {
               onClick={() => filterItems("salad")}
               className={selectedCategory === "salad" ? "active" : ""}
             >
-              Salad
+              Makanan
             </button>
             <button
               onClick={() => filterItems("pizza")}
               className={selectedCategory === "pizza" ? "active" : ""}
             >
-              Pizza
+              Mainan
             </button>
             <button
               onClick={() => filterItems("soup")}
