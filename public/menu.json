@@ -35,7 +35,7 @@
     "_id": "642c155b2c4774f05c36ee7a",
     "name": "Whiskas Ikan Kembung 02",
     "recipe": "Makanan premium dengan rasa ikan kembung yang lezat",
-    "image": "/images/recipes/whiskasIkankembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
@@ -43,7 +43,7 @@
     "_id": "642c155b2c4774f05c36ee74",
     "name": "Whiskas Mackerel 03",
     "recipe": "Makanan dengan dengan gizi yang sangat baik untuk kucing",
-    "image": "/images/recipes/whiskasMackerel.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
@@ -51,7 +51,7 @@
     "_id": "642c155b2c4774f05c36ee712",
     "name": "Kucinta Premium",
     "recipe": "Kucinta dengan gizi yang baik untuk kucing",
-    "image": "/images/recipes/KucintaChunkyPichards.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
@@ -115,7 +115,7 @@
     "_id": "642c155b2c4774f05c36ee96",
     "name": "Papan Garuk Kucing",
     "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/MainanPapanGaruk.png",
+    "image": "/images/recipes/MainanKucing.png",
     "category": "pizza",
     "price": 9.5
   },
@@ -123,7 +123,7 @@
     "_id": "642c155b2c4774f05c36ee81",
     "name": "Tuna Niçoise",
     "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-    "image": "/images/recipes/img2.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "offered",
     "price": 10.5
   },
@@ -131,7 +131,7 @@
     "_id": "642c155b2c4774f05c36eea4",
     "name": "Whiskas Ikan Kembung",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/whiskasIkankembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": "70K"
   },
@@ -139,7 +139,7 @@
     "_id": "642c155b2c4774f05c36eea5",
     "name": "Whiskas Basah Ikan Kembung",
     "recipe": "Makanan kucing basah dengan rasa ikan kembung.",
-    "image": "/images/recipes/WBasahIkanKembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": 9.5
   },
@@ -147,7 +147,7 @@
     "_id": "642c155b2c4774f05c36ee83",
     "name": "Chicken and Walnut Salad",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img1.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "offered",
     "price": 13.5
   },
@@ -155,7 +155,7 @@
     "_id": "642c155b2c4774f05c36ee7f",
     "name": "whiskas basah",
     "recipe": "Makanan kucing untuk yang basah",
-    "image": "/images/recipes/whiskasIkankembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
@@ -163,7 +163,7 @@
     "_id": "642c155b2c4774f05c36eea8",
     "name": "Whiskas Mackerel",
     "recipe": "Makanan kucing Basah",
-    "image": "/images/recipes/whiskasMackerel.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": "6K"
   },
@@ -179,7 +179,7 @@
     "_id": "642c155b2c4774f05c36eeb0",
     "name": "Penggemuk Badan",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/Penggemuk.png",
+    "image": "/images/recipes/ObatBioTic.png",
     "category": "soup",
     "price": 13.5
   },
@@ -187,7 +187,7 @@
     "_id": "642c155b2c4774f05c36eea7",
     "name": "Kucinta",
     "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/KucintaChunkyPichards.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": 9.5
   },
@@ -195,7 +195,7 @@
     "_id": "642c155b2c4774f05c36ee99",
     "name": "Garukan Kucing",
     "recipe": "Garukan kucing berbentuk wortel",
-    "image": "/images/recipes/MainanPapanGaruk.png",
+    "image": "/images/recipes/MainanKucing.png",
     "category": "pizza",
     "price": 14.5
   },
@@ -211,7 +211,7 @@
     "_id": "642c155b2c4774f05c36eeb5",
     "name": "Anti Septik - Salep Luka",
     "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/Penggemuk.png",
+    "image": "/images/recipes/ObatBioTic.png",
     "category": "soup",
     "price": 9.5
   },
@@ -219,7 +219,7 @@
     "_id": "642c155b2c4774f05c36ee7e",
     "name": "Whiskas Kering",
     "recipe": "Makanan kucing kering tinggi gizi",
-    "image": "/images/recipes/whiskasMackerel.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
@@ -235,7 +235,7 @@
     "_id": "642c155b2c4774f05c36eea0",
     "name": "Mainan Kucing Interaktif",
     "recipe": "Mainan ini membuat kucing kita interaktif dan lebih dekat dengan pemiliknya",
-    "image": "/images/recipes/MainanPapanGaruk.png",
+    "image": "/images/recipes/MainanKucing.png",
     "category": "pizza",
     "price": 14.5
   },
@@ -243,7 +243,7 @@
     "_id": "642c155b2c4774f05c36eea9",
     "name": "Ocean Fish",
     "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/whiskasIkankembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": "90K"
   },
@@ -259,7 +259,7 @@
     "_id": "642c155b2c4774f05c36ee95",
     "name": "Boneka Gigit",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/MainanPapanGaruk.png",
+    "image": "/images/recipes/MainanKucing.png",
     "category": "pizza",
     "price": 13.5
   },
@@ -267,7 +267,7 @@
     "_id": "642c155b2c4774f05c36eeac",
     "name": "Ikan laut",
     "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-    "image": "/images/recipes/whiskasIkankembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": 60.0
   },
@@ -283,7 +283,7 @@
     "_id": "642c155b2c4774f05c36eeab",
     "name": "Ikan Salmon",
     "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/whiskasIkankembung.png",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "salad",
     "price": 6.0
   }
