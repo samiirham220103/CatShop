@@ -43,7 +43,11 @@ const Navbar = () => {
               <a>makanan</a>
             </li>
             <li>
+<<<<<<< HEAD
               <a>obat</a>
+=======
+              <a>minuman</a>
+>>>>>>> 9c4d172ecc90e0c6c7332830877bc29a0052c114
             </li>
           </ul>
         </details>
