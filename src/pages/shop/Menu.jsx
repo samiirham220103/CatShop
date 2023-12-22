@@ -87,12 +87,12 @@ const Menu = () => {
           {/* content */}
           <div className=" text-center px-4 space-y-7">
             <h2 className="md:text-5xl text-4xl font-bold md:leading-snug leading-snug">
-              For the Love of Delicious <span className="text-green">Food</span>
+              Indulge in the Delightful World of{" "}
+              <span className="text-green">Feline</span> Feasts.{" "}
             </h2>
-            <p className="text-[#4A4A4A] text-xl md:w-4/5 mx-auto">
-              Come with family & feel the joy of mouthwatering food such as
-              Greek Salad, Lasagne, Butternut Pumpkin, Tokusen Wagyu, Olivas
-              Rellenas and more for a moderate cost
+            <p className="text-xl text-[#4A4A4A]">
+              Taste the Tale: Where Every Dish Narrates Culinary Mastery and
+              Passionate Craftsmanship for Your Feline Friends.
             </p>
             <button className="bg-green font-semibold btn text-white px-8 py-3 rounded-full">
               Order Now
@@ -128,19 +128,19 @@ const Menu = () => {
               onClick={() => filterItems("soup")}
               className={selectedCategory === "soup" ? "active" : ""}
             >
-              Soups
+              Obat & Vitamin
             </button>
             <button
               onClick={() => filterItems("dessert")}
               className={selectedCategory === "dessert" ? "active" : ""}
             >
-              Desserts
+              Alat Kebersihan
             </button>
             <button
               onClick={() => filterItems("drinks")}
               className={selectedCategory === "drinks" ? "active" : ""}
             >
-              Drinks
+              Tas Ransel
             </button>
           </div>
 

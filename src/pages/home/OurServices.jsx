@@ -3,8 +3,8 @@ import React from "react";
 const serviceLists = [
   {
     id: 1,
-    title: "Catering",
-    des: "Delight your guest with our flavours and presentations",
+    title: "Sehat & Premium",
+    des: "Premium food is always fresh and healthy",
     image: "/images/home/services/icon1.png",
   },
   {
@@ -35,11 +35,12 @@ const OurServices = () => {
         <div className="md:w-1/2">
           <div className="text-left md:w-4/5">
             <p className="subtitle">Our Story & Services</p>
-            <h2 className="title">Our Culinary Journey And Services</h2>
+            <h2 className="title">Our Journey And Services</h2>
             <p className="my-5 text-secondary leading-[30px]">
-              Rooted in passion, we curate unforgettable dining experiences and
-              offer exceptional services, blending culinary artistry with warm
-              hospitality.
+              Infused with a genuine love for feline companions, we meticulously
+              craft memorable dining moments and provide exceptional essentials,
+              seamlessly merging gastronomic craftsmanship with genuine care for
+              your beloved cats.
             </p>
 
             <button className="btn bg-green text-white px-8 py-3 rounded-full">

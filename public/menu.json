@@ -9,65 +9,65 @@
   },
   {
     "_id": "642c155b2c4774f05c36eeb9",
-    "name": "Haddock",
-    "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-    "image": "/images/recipes/img2.png",
+    "name": "KHUSUS INSTAN! Tas Ransel Astronot Lipat - Pet Carrier PC#63",
+    "recipe": "Ransel Kucing Peliharaan Tas Bahu Hewan Peliharaan Luar Ruangan Pembawa Kucing Antilembap untuk Anjing Kecil Kucing Kapsul Ruang Angkasa Tas Perjalanan Astronot Portabel",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "drinks",
     "price": 14.7
   },
   {
     "_id": "642c155b2c4774f05c36ee7c",
-    "name": "Escalope de Veau",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img1.png",
+    "name": "Whiskas 02",
+    "recipe": "Makanan Premium dan berkualitas",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
   {
     "_id": "642c155b2c4774f05c36ee88",
-    "name": "Escalope de Veau",
-    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-    "image": "/images/recipes/img1.png",
+    "name": "5 in 1 Pet Grooming",
+    "recipe": " Bahan Stainless Steel Plastik ABS",
+    "image": "/images/recipes/alatKebersihan.png",
     "category": "dessert",
     "price": 12.5
   },
   {
     "_id": "642c155b2c4774f05c36ee7a",
-    "name": "Roast Duck Breast",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img2.png",
+    "name": "Whiskas Ikan Kembung 02",
+    "recipe": "Makanan premium dengan rasa ikan kembung yang lezat",
+    "image": "/images/recipes/whiskasIkankembung.png",
     "category": "popular",
     "price": 14.5
   },
   {
     "_id": "642c155b2c4774f05c36ee74",
-    "name": "Roast Duck Breast",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img3.png",
+    "name": "Whiskas Mackerel 03",
+    "recipe": "Makanan dengan dengan gizi yang sangat baik untuk kucing",
+    "image": "/images/recipes/whiskasMackerel.png",
     "category": "popular",
     "price": 14.5
   },
   {
     "_id": "642c155b2c4774f05c36ee712",
-    "name": "Roast Duck Breast",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img1.png",
+    "name": "Kucinta Premium",
+    "recipe": "Kucinta dengan gizi yang baik untuk kucing",
+    "image": "/images/recipes/KucintaChunkyPichards.png",
     "category": "popular",
     "price": 14.5
   },
   {
     "_id": "642c155b2c4774f05c36ee7x",
-    "name": "Roast Duck Breast",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img2.png",
+    "name": "Whiskas 003",
+    "recipe": "Makanan sehat untuk kucing",
+    "image": "/images/recipes/whiskasTuna.png",
     "category": "popular",
     "price": 14.5
   },
   {
     "_id": "642c155b2c4774f05c36ee8c",
-    "name": "Escalope de Veau",
-    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-    "image": "/images/recipes/img3.png",
+    "name": "Parfum",
+    "recipe": "Parfum segar, harum dan aman bagi kucing",
+    "image": "/images/recipes/alatKebersihan.png",
     "category": "dessert",
     "price": 12.5
   },
@@ -97,27 +97,19 @@
   },
   {
     "_id": "642c155b2c4774f05c36eeaf",
-    "name": "Escalope de Veau",
+    "name": "Bio-Tic - Penghilang Bau Kotoran",
     "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-    "image": "/images/recipes/img1.png",
+    "image": "/images/recipes/ObatBioTic.png",
     "category": "soup",
     "price": 12.5
   },
   {
     "_id": "642c155b2c4774f05c36ee89",
-    "name": "Chicken and Walnut Salad",
-    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img2.png",
+    "name": "Bedak Natural Pet Ultracoat Dry Shampoo 250gr",
+    "recipe": "Deodorant, Sanitizing agent, Moisturizer, Skin Protectant, Floral scentEasy, waterless cleaning",
+    "image": "/images/recipes/alatKebersihan.png",
     "category": "dessert",
     "price": 13.5
-  },
-  {
-    "_id": "642c155b2c4774f05c36ee8a",
-    "name": "Escalope de Veau",
-    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-    "image": "/images/recipes/img3.png",
-    "category": "dessert",
-    "price": 12.5
   },
   {
     "_id": "642c155b2c4774f05c36ee96",
@@ -136,14 +128,6 @@
     "price": 10.5
   },
   {
-    "_id": "642c155b2c4774f05c36ee84",
-    "name": "Roast Duck Breast",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img3.png",
-    "category": "dessert",
-    "price": 14.5
-  },
-  {
     "_id": "642c155b2c4774f05c36eea4",
     "name": "Whiskas Ikan Kembung",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
@@ -160,14 +144,6 @@
     "price": 9.5
   },
   {
-    "_id": "642c155b2c4774f05c36ee87",
-    "name": "Chicken and Walnut Salad",
-    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img3.png",
-    "category": "dessert",
-    "price": 13.5
-  },
-  {
     "_id": "642c155b2c4774f05c36ee83",
     "name": "Chicken and Walnut Salad",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
@@ -177,9 +153,9 @@
   },
   {
     "_id": "642c155b2c4774f05c36ee7f",
-    "name": "Roasted Pork Belly",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img2.png",
+    "name": "whiskas basah",
+    "recipe": "Makanan kucing untuk yang basah",
+    "image": "/images/recipes/whiskasIkankembung.png",
     "category": "popular",
     "price": 14.5
   },
@@ -193,51 +169,19 @@
   },
   {
     "_id": "642c155b2c4774f05c36eeba",
-    "name": "Haddock",
-    "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-    "image": "/images/recipes/img1.png",
+    "name": "Cat It Voyageur - Pet Carrier Anjing Kucing",
+    "recipe": "Catit Profile Voyageur Cat Carrier adalah solusi ideal untuk kebutuhan transportasi hewan peliharaan Anda.",
+    "image": "/images/recipes/tasRansel.png",
     "category": "drinks",
     "price": 14.7
   },
   {
-    "_id": "642c155b2c4774f05c36ee80",
-    "name": "Roast Duck Breast",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img2.png",
-    "category": "offered",
-    "price": 14.5
-  },
-  {
-    "_id": "642c155b2c4774f05c36ee90",
-    "name": "Fish Parmentier",
-    "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/img3.png",
-    "category": "dessert",
-    "price": 9.5
-  },
-  {
     "_id": "642c155b2c4774f05c36eeb0",
-    "name": "Chicken and Walnut Salad",
+    "name": "Penggemuk Badan",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img1.png",
+    "image": "/images/recipes/Penggemuk.png",
     "category": "soup",
     "price": 13.5
-  },
-  {
-    "_id": "642c155b2c4774f05c36ee8d",
-    "name": "Chicken and Walnut Salad",
-    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img2.png",
-    "category": "dessert",
-    "price": 13.5
-  },
-  {
-    "_id": "642c155b2c4774f05c36ee8e",
-    "name": "Escalope de Veau",
-    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-    "image": "/images/recipes/img3.png",
-    "category": "dessert",
-    "price": 12.5
   },
   {
     "_id": "642c155b2c4774f05c36eea7",
@@ -257,43 +201,27 @@
   },
   {
     "_id": "642c155b2c4774f05c36eeb3",
-    "name": "Fish Parmentier",
+    "name": "Obat Tetes Kulit",
     "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/img3.png",
+    "image": "/images/recipes/ObatBioTic.png",
     "category": "soup",
     "price": 9.5
   },
   {
     "_id": "642c155b2c4774f05c36eeb5",
-    "name": "Fish Parmentier",
+    "name": "Anti Septik - Salep Luka",
     "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-    "image": "/images/recipes/img1.png",
+    "image": "/images/recipes/Penggemuk.png",
     "category": "soup",
     "price": 9.5
   },
   {
     "_id": "642c155b2c4774f05c36ee7e",
-    "name": "Fish Parmentier",
-    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-    "image": "/images/recipes/img1.png",
+    "name": "Whiskas Kering",
+    "recipe": "Makanan kucing kering tinggi gizi",
+    "image": "/images/recipes/whiskasMackerel.png",
     "category": "popular",
     "price": 14.5
-  },
-  {
-    "_id": "642c155b2c4774f05c36ee8b",
-    "name": "Chicken and Walnut Salad",
-    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img2.png",
-    "category": "dessert",
-    "price": 13.5
-  },
-  {
-    "_id": "642c155b2c4774f05c36ee8f",
-    "name": "Chicken and Walnut Salad",
-    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img3.png",
-    "category": "dessert",
-    "price": 13.5
   },
   {
     "_id": "642c155b2c4774f05c36ee97",
@@ -321,17 +249,17 @@
   },
   {
     "_id": "642c155b2c4774f05c36ee93",
-    "name": "Tuna Niçoise",
+    "name": "Bebek Cit",
     "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-    "image": "/images/recipes/img3.png",
+    "image": "/images/recipes/MainanKucing.png",
     "category": "pizza",
     "price": 10.5
   },
   {
     "_id": "642c155b2c4774f05c36ee95",
-    "name": "Chicken and Walnut Salad",
+    "name": "Boneka Gigit",
     "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-    "image": "/images/recipes/img1.png",
+    "image": "/images/recipes/MainanPapanGaruk.png",
     "category": "pizza",
     "price": 13.5
   },
